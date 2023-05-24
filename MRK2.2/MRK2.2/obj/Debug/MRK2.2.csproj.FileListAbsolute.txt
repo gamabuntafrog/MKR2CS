@@ -1,0 +1,11 @@
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\bin\Debug\MRK2.2.exe.config
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\bin\Debug\MRK2.2.exe
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\bin\Debug\MRK2.2.pdb
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2.2.csproj.AssemblyReference.cache
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2._2.Form1.resources
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2._2.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2.2.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2.2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2.2.exe
+C:\Users\lenovo\Source\Repos\MRK2.2\MRK2.2\obj\Debug\MRK2.2.pdb
